@@ -1,0 +1,4770 @@
+{
+  "NAE_RES": {
+    "ResponseId": "a8afa89e-e0bf-4064-a0aa-55222615f08a",
+    "NewApplication": {
+      "CBContractId": "M25519619",
+      "ProviderApplicationNo": "000108316202052485399355"
+    },
+    "EnquiredSubject": {
+      "Individual": {
+        "FullNameEN": "ANIL  SHARMA",
+        "Gender": "M",
+        "DOB": "08061970",
+        "Nationality": "PK",
+        "EmiratesId": "784-1970-3097041-8",
+        "PassportNo": "AK1911904",
+        "PrimaryMobileNo": "0501984307"
+      }
+    },
+    "Response": {
+      "MatchedSubject": {
+        "CBSubjectId": "K05039151",
+        "ProviderSubjectNo": "2197554",
+        "Individual": {
+          "NameEN": {
+            "FirstName": "ANIL",
+            "LastName": "SHARMA"
+          },
+          "FirstNameENHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              "FirstNameENData": {
+                "FirstNameEN": "ANIL",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "FirstNameENData": {
+                "FirstNameEN": "ANIL",
+                "ActualFlag": "1"
+              }
+            }
+          ],
+          "LastNameENHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              "LastNameENData": {
+                "LastNameEN": "SHARMA",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "LastNameENData": {
+                "LastNameEN": "SHARMA",
+                "ActualFlag": "1"
+              }
+            }
+          ],
+          "FullNameEN": "ANIL SHARMA",
+          "FullNameENHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "07072019"
+              },
+              "FullNameENData": {
+                "FullNameEN": "ANIL SHARMA",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "02112021"
+              },
+              "FullNameENData": {
+                "FullNameEN": "ANIL SHARMA",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "27022019"
+              },
+              "FullNameENData": {
+                "FullNameEN": "ANIL SHARMA",
+                "ActualFlag": "0"
+              }
+            }
+          ],
+          "Gender": "M",
+          "GenderHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              "GenderData": {
+                "Gender": "M",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "GenderData": {
+                "Gender": "M",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "27022019"
+              },
+              "GenderData": {
+                "Gender": "U",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "02112021"
+              },
+              "GenderData": {
+                "Gender": "M",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "07072019"
+              },
+              "GenderData": {
+                "Gender": "U",
+                "ActualFlag": "0"
+              }
+            }
+          ],
+          "DOB": "08061970",
+          "DOBHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              "DOBData": {
+                "DOB": "08061970",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "DOBData": {
+                "DOB": "08061970",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "02112021"
+              },
+              "DOBData": {
+                "DOB": "08061970",
+                "ActualFlag": "1"
+              }
+            }
+          ],
+          "NationalityHistory": [
+            {
+              "UpdateInfo": [
+                {
+                  "ProviderNo": "B01",
+                  "DateOfUpdate": "02112021"
+                },
+                {
+                  "ProviderNo": "B02",
+                  "DateOfUpdate": "01112021"
+                },
+                {
+                  "ProviderNo": "B04",
+                  "DateOfUpdate": "01092020"
+                },
+                {
+                  "ProviderNo": "T05",
+                  "DateOfUpdate": "06062020"
+                },
+                {
+                  "ProviderNo": "C07",
+                  "DateOfUpdate": "16012019"
+                }
+              ],
+              "NationalityData": {
+                "Nationality": "PK",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "NationalityData": {
+                "Nationality": "PA",
+                "ActualFlag": "0"
+              }
+            }
+          ],
+          "Title": "MR",
+          "TitleHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              "TitleData": {
+                "Title": "MR",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "TitleData": {
+                "Title": "MR",
+                "ActualFlag": "1"
+              }
+            }
+          ],
+          "ResidentFlag": "1",
+          "ResidentFlagHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              "ResidentFlagData": {
+                "ResidentFlag": "1",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "ResidentFlagData": {
+                "ResidentFlag": "1",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "24102021"
+              },
+              "ResidentFlagData": {
+                "ResidentFlag": "1",
+                "ActualFlag": "1"
+              }
+            }
+          ],
+          "PassportHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "02112021"
+              },
+              "PassportData": {
+                "PassportNo": "AK1911904",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": [
+                {
+                  "ProviderNo": "B02",
+                  "DateOfUpdate": "01112021"
+                },
+                {
+                  "ProviderNo": "B01",
+                  "DateOfUpdate": "21102021"
+                },
+                {
+                  "ProviderNo": "B04",
+                  "DateOfUpdate": "11042021"
+                },
+                {
+                  "ProviderNo": "C07",
+                  "DateOfUpdate": "16012019"
+                }
+              ],
+              "PassportData": {
+                "PassportNo": "AK1911903",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": [
+                {
+                  "ProviderNo": "B01",
+                  "DateOfUpdate": "16012019"
+                },
+                {
+                  "ProviderNo": "B04",
+                  "DateOfUpdate": "06082018"
+                },
+                {
+                  "ProviderNo": "B02",
+                  "DateOfUpdate": "05032017"
+                },
+                {
+                  "ProviderNo": "B06",
+                  "DateOfUpdate": "20112014"
+                }
+              ],
+              "PassportData": {
+                "PassportNo": "AK1911902",
+                "PassportExpiryDate": "20052016",
+                "ActualFlag": "0"
+              }
+            }
+          ],
+          "EmiratesIdHistory": {
+            "UpdateInfo": [
+              {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "02112021"
+              },
+              {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              {
+                "ProviderNo": "T03",
+                "DateOfUpdate": "12012021"
+              },
+              {
+                "ProviderNo": "T05",
+                "DateOfUpdate": "06062020"
+              },
+              {
+                "ProviderNo": "C07",
+                "DateOfUpdate": "16012019"
+              },
+              {
+                "ProviderNo": "B06",
+                "DateOfUpdate": "20112014"
+              }
+            ],
+            "EmiratesIdData": {
+              "EmiratesId": "784-1970-3097041-8",
+              "ActualFlag": "1"
+            }
+          },
+          "AddressHistory": [
+            {
+              "UpdateInfo": [
+                {
+                  "ProviderNo": "B01",
+                  "DateOfUpdate": "02112021"
+                },
+                {
+                  "ProviderNo": "B02",
+                  "DateOfUpdate": "01112021"
+                },
+                {
+                  "ProviderNo": "B04",
+                  "DateOfUpdate": "01092020"
+                }
+              ],
+              "AddressData": {
+                "Emirate": "3",
+                "Address": "ST MARYS CATHOLIC HIGH SCHOOL SCHOOL BLDG OUD MEHTA AREA TEACHING ST MARY CATHOLIC HIGH  DUBAI AE",
+                "POBox": "52232",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "11042021"
+              },
+              "AddressData": {
+                "Emirate": "3",
+                "Address": "ST MARYS CATHOLIC HIGH SCHOOL N A",
+                "POBox": "52232",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "05112017"
+              },
+              "AddressData": {
+                "Emirate": "6",
+                "Address": "FLAT NO 5 BLDG NO 19 NEAR MAYSALOON PARK",
+                "POBox": "52232",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "05032017"
+              },
+              "AddressData": {
+                "Emirate": "6",
+                "Address": "FLAT NO 205 SHEIK DEEWAN BLDG SHEIK SAQR BIN KHALID ROAD",
+                "POBox": "52232",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "T03",
+                "DateOfUpdate": "12012021"
+              },
+              "AddressData": {
+                "Emirate": "6",
+                "Address": "INDUSTRIAL AREA ABU DANIQ",
+                "PlotNo": "704",
+                "POBox": "123",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": [
+                {
+                  "ProviderNo": "T03",
+                  "DateOfUpdate": "08122020"
+                },
+                {
+                  "ProviderNo": "T05",
+                  "DateOfUpdate": "06062020"
+                }
+              ],
+              "AddressData": {
+                "Emirate": "3",
+                "Address": "NA ABU DHABI",
+                "PlotNo": "704",
+                "POBox": "1150",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B06",
+                "DateOfUpdate": "20112014"
+              },
+              "AddressData": {
+                "Address": "PO BOX 52232 TEACHING DEPT",
+                "ActualFlag": "0"
+              }
+            }
+          ],
+          "ContactHistory": [
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B04",
+                "DateOfUpdate": "24052020"
+              },
+              "ContactData": {
+                "ContactType": "1",
+                "Contact": "SHARMA7T@YAHOO.COM",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": [
+                {
+                  "ProviderNo": "B04",
+                  "DateOfUpdate": "11042021"
+                },
+                {
+                  "ProviderNo": "B02",
+                  "DateOfUpdate": "05112017"
+                }
+              ],
+              "ContactData": {
+                "ContactType": "2",
+                "Contact": "97143370252",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "01112021"
+              },
+              "ContactData": {
+                "ContactType": "2",
+                "Contact": "923324764373",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "02112021"
+              },
+              "ContactData": {
+                "ContactType": "3",
+                "Contact": "+00971501984307",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": [
+                {
+                  "ProviderNo": "B02",
+                  "DateOfUpdate": "01112021"
+                },
+                {
+                  "ProviderNo": "B04",
+                  "DateOfUpdate": "11042021"
+                }
+              ],
+              "ContactData": {
+                "ContactType": "3",
+                "Contact": "971501984307",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B01",
+                "DateOfUpdate": "17102021"
+              },
+              "ContactData": {
+                "ContactType": "3",
+                "Contact": "0501984307",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "B02",
+                "DateOfUpdate": "05032017"
+              },
+              "ContactData": {
+                "ContactType": "4",
+                "Contact": "0",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "T03",
+                "DateOfUpdate": "12012021"
+              },
+              "ContactData": {
+                "ContactType": "1",
+                "Contact": "USERNAME@DOMIN.COM",
+                "ActualFlag": "1"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "T03",
+                "DateOfUpdate": "12012021"
+              },
+              "ContactData": {
+                "ContactType": "3",
+                "Contact": "068836571",
+                "ActualFlag": "0"
+              }
+            },
+            {
+              "UpdateInfo": {
+                "ProviderNo": "T05",
+                "DateOfUpdate": "06062020"
+              },
+              "ContactData": {
+                "ContactType": "3",
+                "Contact": "+971999999999",
+                "ActualFlag": "0"
+              }
+            }
+          ]
+        }
+      },
+      "ContractData": {
+        "TotalSummaries": {
+          "NumbersSummary": {
+            "TotalNo": "19",
+            "DataProvidersNo": "4",
+            "RequestNo": "7",
+            "DeclinedNo": "0",
+            "RejectedNo": "0",
+            "NotTakenUpNo": "0",
+            "ActiveNo": "5",
+            "ClosedNo": "7"
+          },
+          "KeyValuesSummary": {
+            "TotalBalance": "22791",
+            "TotalOverdue": "0",
+            "DefaultAccountsNumber": "0",
+            "TotalOutstandingTelcoUtilities": "0"
+          },
+          "ContractsSummary": {
+            "TotalExposure": "37997",
+            "TotalExposureNonFunded": "0",
+            "CreditUtilizationRate": "46",
+            "MaxCurrentPaymentDelay": "0",
+            "MaxCurrentPaymentDelayContractType": "I",
+            "MaxPaymentDelay24M": "0",
+            "MaxPaymentDelay24MContractType": "C",
+            "WorstStatus24M": "U",
+            "OldestContractOpenDate": "23052012",
+            "NewestContractOpenDate": "21062020",
+            "Applications90D": "1",
+            "TotalBalanceGuaranteed": "0",
+            "TotalOverdueGuaranteed": "0"
+          },
+          "NumbersSummaryTelcoUtilities": {
+            "TotalNo": "2",
+            "DataProvidersNo": "2",
+            "RequestNo": "0",
+            "DeclinedNo": "0",
+            "RejectedNo": "0",
+            "NotTakenUpNo": "0",
+            "ActiveNo": "1",
+            "ClosedNo": "1"
+          }
+        },
+        "Installments": {
+          "Summary": {
+            "Holder": {
+              "TotalNo": "7",
+              "DataProvidersNo": "1",
+              "RequestNo": "4",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "2",
+              "ClosedNo": "1"
+            },
+            "Guarantor": {
+              "TotalNo": "0",
+              "DataProvidersNo": "1",
+              "RequestNo": "0",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "0",
+              "ClosedNo": "0"
+            }
+          },
+          "FinancialSummary": {
+            "Holder": {
+              "PaymentAmount": "2635",
+              "Balance": "9997",
+              "OverdueAmount": "0"
+            },
+            "Guarantor": {
+              "PaymentAmount": "0",
+              "Balance": "0",
+              "OverdueAmount": "0"
+            }
+          },
+          "Contract": [
+            {
+              "CommonData": {
+                "CBContractId": "315784378",
+                "ProviderNo": "B01",
+                "ProviderContractNo": "20360997",
+                "ReferenceDate": "310717",
+                "ContractType": "15",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "30062016",
+                "ClosedDate": "03072017",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31072017",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31072017"
+              },
+              "TotalAmount": "50000",
+              "NoOfInstallments": "48",
+              "NoOfRemainingInstallments": "0",
+              "PaymentAmount": "1330",
+              "PaymentFrequency": "M",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31072017",
+              "History": [
+                {
+                  "ReferenceDate": "072017",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062017",
+                  "Balance": "40826",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052017",
+                  "Balance": "41757",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042017",
+                  "Balance": "42666",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032017",
+                  "Balance": "43579",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022017",
+                  "Balance": "44469",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012017",
+                  "Balance": "45394",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122016",
+                  "Balance": "46281",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112016",
+                  "Balance": "47159",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102016",
+                  "Balance": "47999",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092016",
+                  "Balance": "48844",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082016",
+                  "Balance": "49697",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072016",
+                  "Balance": "50526",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062016",
+                  "Balance": "50033",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052016"
+                },
+                {
+                  "ReferenceDate": "042016"
+                },
+                {
+                  "ReferenceDate": "032016"
+                },
+                {
+                  "ReferenceDate": "022016"
+                },
+                {
+                  "ReferenceDate": "012016"
+                },
+                {
+                  "ReferenceDate": "122015"
+                },
+                {
+                  "ReferenceDate": "112015"
+                },
+                {
+                  "ReferenceDate": "102015"
+                },
+                {
+                  "ReferenceDate": "092015"
+                },
+                {
+                  "ReferenceDate": "082015"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "915946615",
+                "ProviderNo": "B01",
+                "ProviderContractNo": "20407247",
+                "ReferenceDate": "301121",
+                "ContractType": "15",
+                "ActiveFlag": "A",
+                "Role": "A",
+                "OpenDate": "03072017",
+                "ClosedDate": "05122021",
+                "WorstStatus": "U",
+                "WorstStatusDate": "30112021",
+                "MaxOverdueAmount": "739",
+                "MaxOverdueAmountDate": "31012020"
+              },
+              "TotalAmount": "100000",
+              "NoOfInstallments": "54",
+              "NoOfRemainingInstallments": "1",
+              "PaymentAmount": "2634",
+              "PaymentFrequency": "M",
+              "SecuredContractFlag": "0",
+              "FraudFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "30112021",
+              "History": [
+                {
+                  "ReferenceDate": "112021",
+                  "Balance": "2095",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102021",
+                  "Balance": "4682",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092021",
+                  "Balance": "7244",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082021",
+                  "Balance": "9779",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072021",
+                  "Balance": "12287",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062021",
+                  "Balance": "14776",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052021",
+                  "Balance": "17234",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042021",
+                  "Balance": "17066",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032021",
+                  "Balance": "19501",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022021",
+                  "Balance": "21933",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012021",
+                  "Balance": "24319",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122020",
+                  "Balance": "26681",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112020",
+                  "Balance": "29029",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102020",
+                  "Balance": "31343",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092020",
+                  "Balance": "33646",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082020",
+                  "Balance": "35914",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072020",
+                  "Balance": "38159",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062020",
+                  "Balance": "40394",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052020",
+                  "Balance": "42594",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042020",
+                  "Balance": "44786",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032020",
+                  "Balance": "44335",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022020",
+                  "Balance": "46525",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012020",
+                  "Balance": "48663",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122019",
+                  "Balance": "50779",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "121969956",
+                "ProviderNo": "B01",
+                "ProviderContractNo": "20552395",
+                "ReferenceDate": "311021",
+                "ContractType": "15",
+                "ActiveFlag": "A",
+                "Role": "A",
+                "OpenDate": "21062020",
+                "ClosedDate": "05032022",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31102021",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31102021"
+              },
+              "TotalAmount": "7902",
+              "NoOfInstallments": "3",
+              "NoOfRemainingInstallments": "3",
+              "PaymentAmount": "1",
+              "PaymentFrequency": "M",
+              "SecuredContractFlag": "0",
+              "FraudFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31102021",
+              "History": [
+                {
+                  "ReferenceDate": "102021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012021",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122020",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112020",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102020",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092020",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082020",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072020",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062020",
+                  "Balance": "7902",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052020"
+                },
+                {
+                  "ReferenceDate": "042020"
+                },
+                {
+                  "ReferenceDate": "032020"
+                },
+                {
+                  "ReferenceDate": "022020"
+                },
+                {
+                  "ReferenceDate": "012020"
+                },
+                {
+                  "ReferenceDate": "122019"
+                },
+                {
+                  "ReferenceDate": "112019"
+                }
+              ]
+            }
+          ]
+        },
+        "NotInstallments": {
+          "Summary": {
+            "Holder": {
+              "TotalNo": "1",
+              "DataProvidersNo": "1",
+              "RequestNo": "0",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "1",
+              "ClosedNo": "0"
+            },
+            "Guarantor": {
+              "TotalNo": "0",
+              "DataProvidersNo": "1",
+              "RequestNo": "0",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "0",
+              "ClosedNo": "0"
+            }
+          },
+          "FinancialSummary": {
+            "Holder": {
+              "CreditLimit": "0",
+              "Balance": "0",
+              "OverdueAmount": "0"
+            },
+            "Guarantor": {
+              "CreditLimit": "0",
+              "Balance": "0",
+              "OverdueAmount": "0"
+            }
+          },
+          "Contract": {
+            "CommonData": {
+              "CBContractId": "E16118652",
+              "ProviderNo": "B01",
+              "ProviderContractNo": "0332197554002",
+              "ReferenceDate": "311021",
+              "ContractType": "58",
+              "ActiveFlag": "A",
+              "Role": "A",
+              "OpenDate": "12062018",
+              "WorstStatus": "U",
+              "WorstStatusDate": "31102021",
+              "MaxOverdueAmount": "0",
+              "MaxOverdueAmountDate": "31102021"
+            },
+            "SecuredContractFlag": "0",
+            "FraudFlag": "0",
+            "MaxDaysPaymentDelay": "0",
+            "MaxDaysPaymentDelayDate": "31102021",
+            "History": [
+              {
+                "ReferenceDate": "102021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "092021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "082021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "072021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "062021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "052021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "042021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "032021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "022021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "012021",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "122020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "112020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "102020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "092020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "082020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "072020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "062020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "052020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "042020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "032020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "022020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "012020",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "122019",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              },
+              {
+                "ReferenceDate": "112019",
+                "CreditLimit": "0",
+                "Balance": "0",
+                "UtilizationRate": "1",
+                "ContractStatus": "U"
+              }
+            ]
+          }
+        },
+        "CreditCards": {
+          "Summary": {
+            "Holder": {
+              "TotalNo": "11",
+              "DataProvidersNo": "4",
+              "RequestNo": "3",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "2",
+              "ClosedNo": "6"
+            },
+            "Guarantor": {
+              "TotalNo": "0",
+              "DataProvidersNo": "4",
+              "RequestNo": "0",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "0",
+              "ClosedNo": "0"
+            }
+          },
+          "FinancialSummary": {
+            "Holder": {
+              "CreditLimit": "28000",
+              "Balance": "12794",
+              "OverdueAmount": "0"
+            },
+            "Guarantor": {
+              "CreditLimit": "0",
+              "Balance": "0",
+              "OverdueAmount": "0"
+            }
+          },
+          "Contract": [
+            {
+              "CommonData": {
+                "CBContractId": "413704164",
+                "ProviderNo": "B06",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "310818",
+                "ContractType": "01",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "23052012",
+                "ClosedDate": "15082018",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31082018",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31082018"
+              },
+              "IslamicContractFlag": "0",
+              "SecuredContractFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31082018",
+              "MinimumPaymentPercentage": "0",
+              "History": [
+                {
+                  "ReferenceDate": "082018",
+                  "CreditLimit": "23000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072018",
+                  "CreditLimit": "23000",
+                  "Balance": "22820",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "99",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062018",
+                  "CreditLimit": "23000",
+                  "Balance": "23249",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "101",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052018",
+                  "CreditLimit": "23000",
+                  "Balance": "22551",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "98",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042018",
+                  "CreditLimit": "23000",
+                  "Balance": "22774",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "99",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032018",
+                  "CreditLimit": "23000",
+                  "Balance": "20974",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "91",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022018",
+                  "CreditLimit": "23000",
+                  "Balance": "20526",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "89",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012018",
+                  "CreditLimit": "23000",
+                  "Balance": "21874",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "95",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122017",
+                  "CreditLimit": "23000",
+                  "Balance": "18410",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "80",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112017",
+                  "CreditLimit": "23000",
+                  "Balance": "17384",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "76",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102017",
+                  "CreditLimit": "23000",
+                  "Balance": "19847",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "86",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092017",
+                  "CreditLimit": "23000",
+                  "Balance": "18039",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "78",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082017",
+                  "CreditLimit": "23000",
+                  "Balance": "11559",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "50",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072017",
+                  "CreditLimit": "23000",
+                  "Balance": "10548",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "46",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062017",
+                  "CreditLimit": "23000",
+                  "Balance": "10611",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "46",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052017",
+                  "CreditLimit": "23000",
+                  "Balance": "8928",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "39",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042017",
+                  "CreditLimit": "23000",
+                  "Balance": "6724",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "29",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032017",
+                  "CreditLimit": "23000",
+                  "Balance": "4598",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "20",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022017",
+                  "CreditLimit": "23000",
+                  "Balance": "206",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "1",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012017",
+                  "CreditLimit": "23000",
+                  "Balance": "2126",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "9",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122016",
+                  "CreditLimit": "23000",
+                  "Balance": "2526",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "11",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112016",
+                  "CreditLimit": "23000",
+                  "Balance": "7236",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "31",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102016",
+                  "CreditLimit": "23000",
+                  "Balance": "106",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092016",
+                  "CreditLimit": "23000",
+                  "Balance": "116",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "1",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "G16159330",
+                "ProviderNo": "B06",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "311021",
+                "ContractType": "01",
+                "ActiveFlag": "A",
+                "Role": "A",
+                "OpenDate": "23052012",
+                "ClosedDate": "31052023",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31102021",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31102021"
+              },
+              "IslamicContractFlag": "0",
+              "SecuredContractFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31102021",
+              "MinimumPaymentPercentage": "11",
+              "History": [
+                {
+                  "ReferenceDate": "102021",
+                  "CreditLimit": "23000",
+                  "Balance": "8376",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "36",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092021",
+                  "CreditLimit": "23000",
+                  "Balance": "9164",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "40",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082021",
+                  "CreditLimit": "23000",
+                  "Balance": "10152",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "44",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072021",
+                  "CreditLimit": "23000",
+                  "Balance": "9987",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "43",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062021",
+                  "CreditLimit": "23000",
+                  "Balance": "9193",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "40",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052021",
+                  "CreditLimit": "23000",
+                  "Balance": "8579",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "37",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042021",
+                  "CreditLimit": "23000",
+                  "Balance": "10585",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "46",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032021",
+                  "CreditLimit": "23000",
+                  "Balance": "7312",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "32",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022021",
+                  "CreditLimit": "23000",
+                  "Balance": "12610",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "55",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012021",
+                  "CreditLimit": "23000",
+                  "Balance": "12486",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "54",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122020",
+                  "CreditLimit": "23000",
+                  "Balance": "13862",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "60",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112020",
+                  "CreditLimit": "23000",
+                  "Balance": "16388",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "71",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102020",
+                  "CreditLimit": "23000",
+                  "Balance": "16263",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "71",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092020",
+                  "CreditLimit": "23000",
+                  "Balance": "19089",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "83",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082020",
+                  "CreditLimit": "23000",
+                  "Balance": "18880",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "82",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072020",
+                  "CreditLimit": "23000",
+                  "Balance": "20077",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "87",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062020",
+                  "CreditLimit": "23000",
+                  "Balance": "12636",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "55",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052020",
+                  "CreditLimit": "23000",
+                  "Balance": "13005",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "57",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042020",
+                  "CreditLimit": "23000",
+                  "Balance": "14672",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "64",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032020",
+                  "CreditLimit": "23000",
+                  "Balance": "18383",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "80",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022020",
+                  "CreditLimit": "23000",
+                  "Balance": "19894",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "86",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012020",
+                  "CreditLimit": "23000",
+                  "Balance": "19209",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "84",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122019",
+                  "CreditLimit": "23000",
+                  "Balance": "16797",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "73",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112019",
+                  "CreditLimit": "23000",
+                  "Balance": "15068",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "66",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "315795174",
+                "ProviderNo": "B01",
+                "ProviderContractNo": "083470700",
+                "ReferenceDate": "311021",
+                "ContractType": "01",
+                "ActiveFlag": "A",
+                "Role": "A",
+                "OpenDate": "03072016",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31102021",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31102021"
+              },
+              "SecuredContractFlag": "0",
+              "FraudFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31102021",
+              "MinimumPaymentPercentage": "3",
+              "History": [
+                {
+                  "ReferenceDate": "102021",
+                  "CreditLimit": "5000",
+                  "Balance": "4418",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "88",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092021",
+                  "CreditLimit": "5000",
+                  "Balance": "3444",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "69",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082021",
+                  "CreditLimit": "5000",
+                  "Balance": "2265",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "45",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072021",
+                  "CreditLimit": "5000",
+                  "Balance": "2163",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "43",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062021",
+                  "CreditLimit": "5000",
+                  "Balance": "631",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "13",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052021",
+                  "CreditLimit": "5000",
+                  "Balance": "300",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "6",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042021",
+                  "CreditLimit": "5000",
+                  "Balance": "1876",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "38",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032021",
+                  "CreditLimit": "5000",
+                  "Balance": "1758",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "35",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022021",
+                  "CreditLimit": "5000",
+                  "Balance": "2256",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "45",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012021",
+                  "CreditLimit": "5000",
+                  "Balance": "2233",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "45",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122020",
+                  "CreditLimit": "5000",
+                  "Balance": "2210",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "44",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112020",
+                  "CreditLimit": "5000",
+                  "Balance": "2863",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "57",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102020",
+                  "CreditLimit": "5000",
+                  "Balance": "2834",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "57",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092020",
+                  "CreditLimit": "5000",
+                  "Balance": "3203",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "64",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082020",
+                  "CreditLimit": "5000",
+                  "Balance": "3166",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "63",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072020",
+                  "CreditLimit": "5000",
+                  "Balance": "3385",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "68",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062020",
+                  "CreditLimit": "5000",
+                  "Balance": "4205",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "84",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052020",
+                  "CreditLimit": "5000",
+                  "Balance": "4215",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "84",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042020",
+                  "CreditLimit": "5000",
+                  "Balance": "4306",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "86",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032020",
+                  "CreditLimit": "5000",
+                  "Balance": "3868",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "77",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022020",
+                  "CreditLimit": "5000",
+                  "Balance": "4329",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "87",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012020",
+                  "CreditLimit": "5000",
+                  "Balance": "4275",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "86",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122019",
+                  "CreditLimit": "5000",
+                  "Balance": "377",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "8",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112019",
+                  "CreditLimit": "5000",
+                  "Balance": "473",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "9",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "215782858",
+                "ProviderNo": "B02",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "311219",
+                "ContractType": "01",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "03062016",
+                "ClosedDate": "31122019",
+                "WorstStatus": "C",
+                "WorstStatusDate": "31122019",
+                "MaxOverdueAmount": "8998",
+                "MaxOverdueAmountDate": "31072019"
+              },
+              "IslamicContractFlag": "0",
+              "SecuredContractFlag": "0",
+              "MaxDaysPaymentDelay": "5",
+              "MaxDaysPaymentDelayDate": "31122019",
+              "MinimumPaymentPercentage": "0",
+              "History": [
+                {
+                  "ReferenceDate": "122019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "C",
+                  "PaymentDueDate": "08012020",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "112019",
+                  "CreditLimit": "0",
+                  "Balance": "5267",
+                  "OverdueAmount": "3908",
+                  "UtilizationRate": "NC",
+                  "PaymentBehaviour": "5",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "4",
+                  "ContractStatus": "C",
+                  "PaymentDueDate": "09122019",
+                  "StatementDueAmount": "5708",
+                  "ActualPaymentAmount": "1800"
+                },
+                {
+                  "ReferenceDate": "102019",
+                  "CreditLimit": "0",
+                  "Balance": "7067",
+                  "OverdueAmount": "5637",
+                  "UtilizationRate": "NC",
+                  "PaymentBehaviour": "5",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "4",
+                  "ContractStatus": "C",
+                  "PaymentDueDate": "08112019",
+                  "StatementDueAmount": "7437",
+                  "ActualPaymentAmount": "1800"
+                },
+                {
+                  "ReferenceDate": "092019",
+                  "CreditLimit": "0",
+                  "Balance": "8867",
+                  "OverdueAmount": "7350",
+                  "UtilizationRate": "NC",
+                  "PaymentBehaviour": "5",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "4",
+                  "ContractStatus": "C",
+                  "PaymentDueDate": "09102019",
+                  "StatementDueAmount": "9150",
+                  "ActualPaymentAmount": "1800"
+                },
+                {
+                  "ReferenceDate": "082019",
+                  "CreditLimit": "0",
+                  "Balance": "10667",
+                  "OverdueAmount": "7370",
+                  "UtilizationRate": "NC",
+                  "PaymentBehaviour": "5",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "4",
+                  "ContractStatus": "C",
+                  "PaymentDueDate": "08092019",
+                  "StatementDueAmount": "10970",
+                  "ActualPaymentAmount": "3600"
+                },
+                {
+                  "ReferenceDate": "072019",
+                  "CreditLimit": "0",
+                  "Balance": "12467",
+                  "OverdueAmount": "7198",
+                  "UtilizationRate": "NC",
+                  "PaymentBehaviour": "5",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "4",
+                  "ContractStatus": "C",
+                  "PaymentDueDate": "08082019",
+                  "StatementDueAmount": "10970",
+                  "ActualPaymentAmount": "1800"
+                },
+                {
+                  "ReferenceDate": "062019",
+                  "CreditLimit": "0",
+                  "Balance": "12414",
+                  "OverdueAmount": "4192",
+                  "UtilizationRate": "NC",
+                  "PaymentBehaviour": "5",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "4",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08062019",
+                  "StatementDueAmount": "6031",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "052019",
+                  "CreditLimit": "9000",
+                  "Balance": "11863",
+                  "OverdueAmount": "4192",
+                  "UtilizationRate": "132",
+                  "PaymentBehaviour": "4",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "3",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08062019",
+                  "StatementDueAmount": "6031",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "042019",
+                  "CreditLimit": "9000",
+                  "Balance": "10147",
+                  "OverdueAmount": "371",
+                  "UtilizationRate": "113",
+                  "PaymentBehaviour": "3",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "2",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08042019",
+                  "StatementDueAmount": "2365",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "032019",
+                  "CreditLimit": "9000",
+                  "Balance": "10121",
+                  "OverdueAmount": "371",
+                  "UtilizationRate": "112",
+                  "PaymentBehaviour": "2",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "1",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08042019",
+                  "StatementDueAmount": "2365",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "022019",
+                  "CreditLimit": "9000",
+                  "Balance": "9164",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "102",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "191",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "11032019",
+                  "StatementDueAmount": "374",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "012019",
+                  "CreditLimit": "9000",
+                  "Balance": "8856",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "98",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "999",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08022019",
+                  "StatementDueAmount": "332",
+                  "ActualPaymentAmount": "200"
+                },
+                {
+                  "ReferenceDate": "122018",
+                  "CreditLimit": "9000",
+                  "Balance": "7536",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "84",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "1337",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08012019",
+                  "StatementDueAmount": "1400",
+                  "ActualPaymentAmount": "3800"
+                },
+                {
+                  "ReferenceDate": "112018",
+                  "CreditLimit": "9000",
+                  "Balance": "8065",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "90",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "134",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "09122018",
+                  "StatementDueAmount": "1400",
+                  "ActualPaymentAmount": "1800"
+                },
+                {
+                  "ReferenceDate": "102018",
+                  "CreditLimit": "9000",
+                  "Balance": "8258",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "92",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "1347",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08112018",
+                  "StatementDueAmount": "291",
+                  "ActualPaymentAmount": "291"
+                },
+                {
+                  "ReferenceDate": "092018",
+                  "CreditLimit": "9000",
+                  "Balance": "6707",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "75",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "499",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "09102018",
+                  "StatementDueAmount": "303",
+                  "ActualPaymentAmount": "1000"
+                },
+                {
+                  "ReferenceDate": "082018",
+                  "CreditLimit": "9000",
+                  "Balance": "7472",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "83",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "499",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08092018",
+                  "StatementDueAmount": "303",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "072018",
+                  "CreditLimit": "9000",
+                  "Balance": "7045",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "78",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08082018",
+                  "StatementDueAmount": "826",
+                  "ActualPaymentAmount": "1000"
+                },
+                {
+                  "ReferenceDate": "062018",
+                  "CreditLimit": "9000",
+                  "Balance": "7805",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "87",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "09072018",
+                  "StatementDueAmount": "313",
+                  "ActualPaymentAmount": "313"
+                },
+                {
+                  "ReferenceDate": "052018",
+                  "CreditLimit": "9000",
+                  "Balance": "7051",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "78",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "08062018",
+                  "StatementDueAmount": "313",
+                  "ActualPaymentAmount": "313"
+                },
+                {
+                  "ReferenceDate": "042018",
+                  "CreditLimit": "9000",
+                  "Balance": "7442",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "83",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032018",
+                  "CreditLimit": "9000",
+                  "Balance": "7491",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "83",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022018",
+                  "CreditLimit": "9000",
+                  "Balance": "7545",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "84",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "4053",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012018",
+                  "CreditLimit": "9000",
+                  "Balance": "4656",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "52",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "424",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "815864958",
+                "ProviderNo": "B02",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "300619",
+                "ContractType": "01",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "16022017",
+                "ClosedDate": "19062019",
+                "WorstStatus": "U",
+                "WorstStatusDate": "30062019",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "30062019"
+              },
+              "IslamicContractFlag": "0",
+              "SecuredContractFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "30062019",
+              "MinimumPaymentPercentage": "0",
+              "History": [
+                {
+                  "ReferenceDate": "062019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15062019",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "052019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15062019",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "042019",
+                  "CreditLimit": "9000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "16052019",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "032019",
+                  "CreditLimit": "9000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15042019",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "022019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "18032019",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "012019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15022019",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "122018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15012019",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "112018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "16122018",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "102018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15112018",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "092018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "16102018",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "082018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15092018",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "072018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15082018",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "062018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "16072018",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "052018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U",
+                  "PaymentDueDate": "15062018",
+                  "StatementDueAmount": "0",
+                  "ActualPaymentAmount": "0"
+                },
+                {
+                  "ReferenceDate": "042018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "M08130581",
+                "ProviderNo": "B04",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "311020",
+                "ContractType": "01",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "13022012",
+                "ClosedDate": "30092020",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31102020",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31102020"
+              },
+              "IslamicContractFlag": "0",
+              "SecuredContractFlag": "0",
+              "FraudFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31102020",
+              "MinimumPaymentPercentage": "5",
+              "History": [
+                {
+                  "ReferenceDate": "102020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012020",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012019",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122018",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112018",
+                  "CreditLimit": "1",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "315804459",
+                "ProviderNo": "B04",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "310819",
+                "ContractType": "01",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "31032016",
+                "ClosedDate": "02122018",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31082019",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31082019"
+              },
+              "IslamicContractFlag": "0",
+              "SecuredContractFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31082019",
+              "MinimumPaymentPercentage": "5",
+              "History": [
+                {
+                  "ReferenceDate": "082019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012019",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102018",
+                  "CreditLimit": "30000",
+                  "Balance": "6357",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "21",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092018",
+                  "CreditLimit": "30000",
+                  "Balance": "10283",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "34",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "10000",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082018",
+                  "CreditLimit": "30000",
+                  "Balance": "10283",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "34",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "1",
+                  "AmountSpent": "10000",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012018",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122017",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112017",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102017",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092017",
+                  "CreditLimit": "30000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "N08131778",
+                "ProviderNo": "B04",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "300418",
+                "ContractType": "01",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "06102012",
+                "ClosedDate": "30042018",
+                "WorstStatus": "U",
+                "WorstStatusDate": "30042018",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "30042018"
+              },
+              "IslamicContractFlag": "0",
+              "SecuredContractFlag": "0",
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "30042018",
+              "MinimumPaymentPercentage": "5",
+              "History": [
+                {
+                  "ReferenceDate": "042018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012018",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "1",
+                  "MinimumPaymentFlag": "1",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032017",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022017"
+                },
+                {
+                  "ReferenceDate": "012017"
+                },
+                {
+                  "ReferenceDate": "122016"
+                },
+                {
+                  "ReferenceDate": "112016"
+                },
+                {
+                  "ReferenceDate": "102016"
+                },
+                {
+                  "ReferenceDate": "092016"
+                },
+                {
+                  "ReferenceDate": "082016",
+                  "CreditLimit": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072016",
+                  "CreditLimit": "100000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062016",
+                  "CreditLimit": "100000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052016",
+                  "CreditLimit": "100000",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "UtilizationRate": "0",
+                  "PaymentBehaviour": "0",
+                  "MinimumPaymentFlag": "0",
+                  "CardUsedFlag": "0",
+                  "AmountSpent": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            }
+          ]
+        },
+        "Services": {
+          "Summary": {
+            "Holder": {
+              "TotalNo": "2",
+              "DataProvidersNo": "2",
+              "RequestNo": "0",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "1",
+              "ClosedNo": "1"
+            },
+            "Guarantor": {
+              "TotalNo": "0",
+              "DataProvidersNo": "2",
+              "RequestNo": "0",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "0",
+              "ClosedNo": "0"
+            }
+          },
+          "FinancialSummary": {
+            "Holder": {
+              "Balance": "0",
+              "OverdueAmount": "0"
+            },
+            "Guarantor": {
+              "Balance": "0",
+              "OverdueAmount": "0"
+            }
+          },
+          "Contract": [
+            {
+              "CommonData": {
+                "CBContractId": "920661141",
+                "ProviderNo": "T03",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "300621",
+                "ContractType": "85",
+                "ActiveFlag": "C",
+                "Role": "A",
+                "OpenDate": "27082018",
+                "ClosedDate": "02052021",
+                "WorstStatus": "X",
+                "WorstStatusDate": "31052021",
+                "MaxOverdueAmount": "395",
+                "MaxOverdueAmountDate": "31122018"
+              },
+              "CommunicationType": "24",
+              "MaxDaysPaymentDelay": "5",
+              "MaxDaysPaymentDelayDate": "31052021",
+              "History": [
+                {
+                  "ReferenceDate": "062021",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052021",
+                  "BilledAmount": "460",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "5",
+                  "ContractStatus": "X"
+                },
+                {
+                  "ReferenceDate": "042021",
+                  "BilledAmount": "460",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032021",
+                  "BilledAmount": "460",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022021",
+                  "BilledAmount": "438",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012021",
+                  "BilledAmount": "385",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122020",
+                  "BilledAmount": "379",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112020",
+                  "BilledAmount": "377",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102020",
+                  "BilledAmount": "377",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092020",
+                  "BilledAmount": "381",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082020",
+                  "BilledAmount": "390",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072020",
+                  "BilledAmount": "387",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062020",
+                  "BilledAmount": "381",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052020",
+                  "BilledAmount": "377",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042020",
+                  "BilledAmount": "377",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032020",
+                  "BilledAmount": "377",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022020",
+                  "BilledAmount": "379",
+                  "Balance": "379",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012020"
+                },
+                {
+                  "ReferenceDate": "122019",
+                  "BilledAmount": "509",
+                  "Balance": "534",
+                  "OverdueAmount": "25",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112019",
+                  "BilledAmount": "359",
+                  "Balance": "376",
+                  "OverdueAmount": "17",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102019",
+                  "BilledAmount": "359",
+                  "Balance": "376",
+                  "OverdueAmount": "17",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092019",
+                  "BilledAmount": "359",
+                  "Balance": "376",
+                  "OverdueAmount": "17",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082019",
+                  "BilledAmount": "359",
+                  "Balance": "376",
+                  "OverdueAmount": "17",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072019",
+                  "BilledAmount": "359",
+                  "Balance": "377",
+                  "OverdueAmount": "18",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            },
+            {
+              "CommonData": {
+                "CBContractId": "117213346",
+                "ProviderNo": "T05",
+                "OriginalCurrency": "AED",
+                "ReferenceDate": "310520",
+                "ContractType": "85",
+                "ActiveFlag": "A",
+                "Role": "A",
+                "OpenDate": "19092013",
+                "WorstStatus": "U",
+                "WorstStatusDate": "31052020",
+                "MaxOverdueAmount": "0",
+                "MaxOverdueAmountDate": "31052020"
+              },
+              "HolderIsNotLiable": "0",
+              "NoOfServices": {
+                "Mobile": "0",
+                "FixedLine": "0",
+                "Other": "1"
+              },
+              "MaxDaysPaymentDelay": "0",
+              "MaxDaysPaymentDelayDate": "31052020",
+              "History": [
+                {
+                  "ReferenceDate": "052020",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042020",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032020",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022020",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012020",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "052019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "042019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "032019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "022019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "012019",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "122018",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "112018",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "102018",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "092018",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "082018",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "072018",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                },
+                {
+                  "ReferenceDate": "062018",
+                  "BilledAmount": "0",
+                  "Balance": "0",
+                  "OverdueAmount": "0",
+                  "DaysPaymentDelay": "0",
+                  "ContractStatus": "U"
+                }
+              ]
+            }
+          ]
+        },
+        "Utilities": {
+          "Summary": {
+            "Holder": {
+              "TotalNo": "0",
+              "DataProvidersNo": "0",
+              "RequestNo": "0",
+              "DeclinedNo": "0",
+              "RejectedNo": "0",
+              "NotTakenUpNo": "0",
+              "ActiveNo": "0",
+              "ClosedNo": "0"
+            }
+          }
+        },
+        "Application": [
+          {
+            "CommonData": {
+              "CBApplicationId": "P16965779",
+              "ProviderNo": "B01",
+              "ProviderApplicationNo": "784197030970418-110219105000",
+              "ContractCategory": "I",
+              "ContractType": "15",
+              "Phase": "R",
+              "Role": "A",
+              "EnquiryDate": "11022019",
+              "LastUpdateDate": "11022019"
+            },
+            "TotalAmount": "50000",
+            "NoOfInstallments": "48"
+          },
+          {
+            "CommonData": {
+              "CBApplicationId": "F19771404",
+              "ProviderNo": "B01",
+              "ProviderApplicationNo": "784197030970418-140120162930",
+              "ContractCategory": "I",
+              "ContractType": "15",
+              "Phase": "R",
+              "Role": "A",
+              "EnquiryDate": "14012020",
+              "LastUpdateDate": "14012020"
+            },
+            "TotalAmount": "50000",
+            "NoOfInstallments": "48"
+          },
+          {
+            "CommonData": {
+              "CBApplicationId": "M16670929",
+              "ProviderNo": "B01",
+              "ProviderApplicationNo": "784197030970418-160119093203",
+              "ContractCategory": "I",
+              "ContractType": "15",
+              "Phase": "R",
+              "Role": "A",
+              "EnquiryDate": "16012019",
+              "LastUpdateDate": "16012019"
+            },
+            "TotalAmount": "100000",
+            "NoOfInstallments": "48"
+          },
+          {
+            "CommonData": {
+              "CBApplicationId": "N25296998",
+              "ProviderNo": "B01",
+              "ProviderApplicationNo": "784197030970418-171021085123",
+              "ContractCategory": "I",
+              "ContractType": "15",
+              "Phase": "R",
+              "Role": "A",
+              "EnquiryDate": "17102021",
+              "LastUpdateDate": "17102021"
+            },
+            "TotalAmount": "50000",
+            "NoOfInstallments": "48"
+          },
+          {
+            "CommonData": {
+              "CBApplicationId": "215924590",
+              "ProviderNo": "B01",
+              "ContractCategory": "C",
+              "ContractType": "01",
+              "Phase": "R",
+              "Role": "A",
+              "EnquiryDate": "19062017",
+              "LastUpdateDate": "19062017"
+            },
+            "CreditLimit": "5000"
+          },
+          {
+            "CommonData": {
+              "CBApplicationId": "615902296",
+              "ProviderNo": "B01",
+              "ContractCategory": "C",
+              "ContractType": "01",
+              "Phase": "R",
+              "Role": "A",
+              "EnquiryDate": "14052017",
+              "LastUpdateDate": "14052017"
+            },
+            "CreditLimit": "5000"
+          },
+          {
+            "CommonData": {
+              "CBApplicationId": "J15862924",
+              "ProviderNo": "B02",
+              "ContractCategory": "C",
+              "ContractType": "01",
+              "Phase": "R",
+              "Role": "A",
+              "EnquiryDate": "13022017",
+              "LastUpdateDate": "13022017"
+            },
+            "CreditLimit": "5000"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "UpdateInfo": [
+          {
+            "ProviderNo": "B01",
+            "DateOfUpdate": "02112021"
+          },
+          {
+            "ProviderNo": "B02",
+            "DateOfUpdate": "01112021"
+          },
+          {
+            "ProviderNo": "B04",
+            "DateOfUpdate": "11042021"
+          },
+          {
+            "ProviderNo": "B06",
+            "DateOfUpdate": "20112014"
+          }
+        ],
+        "EmploymentInfo": {
+          "Name": "ST MARY CATHOLIC HIGH SCHL DXB",
+          "DateOfEmployment": "01012010",
+          "GrossAnnualIncome": "81480",
+          "EmploymentType": "01",
+          "ActualFlag": "1"
+        }
+      },
+      "OtherIncome": {
+        "UpdateInfo": {
+          "ProviderNo": "B02",
+          "DateOfUpdate": "01112021"
+        },
+        "OtherIncomeData": {
+          "Source": "10",
+          "GrossAnnualAmount": "0"
+        }
+      },
+      "PaymentOrder": {
+        "ProviderNo": "B02",
+        "Type": "1",
+        "IBAN": "*******************2101",
+        "Number": "0000173639",
+        "Amount": "20000",
+        "ReasonCode": "A",
+        "ReturnDate": "23062019",
+        "Severity": "1",
+        "ReferenceDate": "23062019"
+      },
+      "Score": {
+        "Data": {
+          "Index": "683",
+          "Range": "F"
+        },
+        "PaymentOrderFlag": "Y"
+      }
+    }
+  }
+}
