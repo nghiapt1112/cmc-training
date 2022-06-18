@@ -6,7 +6,7 @@ logging:
   level:
     root: INFO
     com:
-      y3technologies: DEBUG
+      demo: DEBUG
 
   pattern:
     console: '%-130(%d{yyyy-MM-dd HH:mm:ss.SSS} %-5p ${PID} - [%8.15t] %clr(%C{1}.%M:){cyan}%clr(%L){red}) - %m%n'
