@@ -53,74 +53,74 @@ public abstract class Action {
 
     abstract WebTestClient.ResponseSpec exec();
 
-    void run() {
-        WebTestClient.ResponseSpec response = this
-                .parseInput()
-                .exec();
+//    void run() {
+//        WebTestClient.ResponseSpec response = this
+//                .parseInput()
+//                .exec();
+//
+//
+//        // expect STATUS_RESPONSE
+//        response
+//                .expectStatus()
+//                .isEqualTo(this.output.getStatus());
+//
+//        if (this.output.getStatus() == 400) {
+//            return;
+//        }
+//
+//        // expect BODY_RESPONSE
+//        response
+//                .expectBody()
+//                .consumeWith(consumer -> this.customAssertBody(consumer.getResponseBody()));
+//
+//    }
 
+//    private void customAssertBody(byte[] responseBody) {
+//        if (Objects.isNull(responseBody)) {
+//            return;
+//        }
+//        Object real = JsonUtils.fromJson(new String(responseBody), Object.class);
+//        if (real instanceof Map == false) {
+//            LOGGER.info("realResponse chi nhan gia tri la Map, chua implement cho type khac");
+//        }
+//        Map<String, Object> realResponse = (Map<String, Object>) real;
+//        // REAL RESPONSE JSON only
+//        for (Map.Entry entry : ((Map<String, Object>) output.getFirstBodyElement()).entrySet()) {
+//            String k = entry.getKey().toString();
+//            if (entry.getValue() instanceof String) {
+//                String v = entry.getValue().toString();
+//                if (v.startsWith("$") && realResponse.containsKey(k)) {
+//                    this.storedVars.addVariable(v, realResponse.get(k));
+//                    continue;
+//                }
+//                if (v.startsWith("#") && realResponse.containsKey(k)) {
+//                    Assertions.assertEquals(this.storedVars.retrieve(v), realResponse.get(entry.getKey()));
+//                    continue;
+//                }
+//            }
+//            Assertions.assertEquals(true, realResponse.containsKey(k), "Expect exist key :" + k + " but not exist.");
+//            Assertions.assertEquals(entry.getValue(), realResponse.get(entry.getKey()));
+//        }
+//
+//
+//    }
 
-        // expect STATUS_RESPONSE
-        response
-                .expectStatus()
-                .isEqualTo(this.output.getStatus());
+//    public Action parseInput() {
+//        this.api = this.storedVars.parseReqFromVariables(this.api);
+//        this.storedVars.refresh(this.input);
+//        this.storedVars.refresh(this.output);
+//
+//        // decode api_request
+//        // VD: /user/#userId thi phai decode dc #userId la bao nhieu.
+//
+//        return this;
+//    }
 
-        if (this.output.getStatus() == 400) {
-            return;
-        }
-
-        // expect BODY_RESPONSE
-        response
-                .expectBody()
-                .consumeWith(consumer -> this.customAssertBody(consumer.getResponseBody()));
-
-    }
-
-    private void customAssertBody(byte[] responseBody) {
-        if (Objects.isNull(responseBody)) {
-            return;
-        }
-        Object real = JsonUtils.fromJson(new String(responseBody), Object.class);
-        if (real instanceof Map == false) {
-            LOGGER.info("realResponse chi nhan gia tri la Map, chua implement cho type khac");
-        }
-        Map<String, Object> realResponse = (Map<String, Object>) real;
-        // REAL RESPONSE JSON only
-        for (Map.Entry entry : ((Map<String, Object>) output.getFirstBodyElement()).entrySet()) {
-            String k = entry.getKey().toString();
-            if (entry.getValue() instanceof String) {
-                String v = entry.getValue().toString();
-                if (v.startsWith("$") && realResponse.containsKey(k)) {
-                    this.storedVars.addVariable(v, realResponse.get(k));
-                    continue;
-                }
-                if (v.startsWith("#") && realResponse.containsKey(k)) {
-                    Assertions.assertEquals(this.storedVars.retrieve(v), realResponse.get(entry.getKey()));
-                    continue;
-                }
-            }
-            Assertions.assertEquals(true, realResponse.containsKey(k), "Expect exist key :" + k + " but not exist.");
-            Assertions.assertEquals(entry.getValue(), realResponse.get(entry.getKey()));
-        }
-
-
-    }
-
-    public Action parseInput() {
-        this.api = this.storedVars.parseReqFromVariables(this.api);
-        this.storedVars.refresh(this.input);
-        this.storedVars.refresh(this.output);
-
-        // decode api_request
-        // VD: /user/#userId thi phai decode dc #userId la bao nhieu.
-
-        return this;
-    }
-
-    public void prepareData(String api, Input input, Output output) {
-        this.api = api;
-        this.input = input;
-        this.output = output;
-    }
+//    public void prepareData(String api, Input input, Output output) {
+//        this.api = api;
+//        this.input = input;
+//        this.output = output;
+//    }
 
 }
 
